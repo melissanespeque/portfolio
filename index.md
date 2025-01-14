@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Dashboard Descritivo AirBnB](https://melissanespeque.github.io/airbnb_dashboard/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/airbnb.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
