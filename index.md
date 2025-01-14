@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Dashboard Descritivo AirBnB](https://melissanespeque.github.io/airbnb_dashboard/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
